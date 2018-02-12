@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('fonts/Ubuntu/Ubuntu-Regular.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('fonts/Noto_Sans/NotoSans-Regular.ttf') format("truetype");
+}
+
+body {
+  font-family: 'Noto Sans', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Ubuntu', sans-serif !important;
+}
+
+.bg-white {
+    background-color: #FFFFFF;
+}
+
+.separator {
+    border-right:1px black solid;
+}
+
+.custom-link {
+    color:black;
+    border-color: #DCDCDC;
+    margin-top: 200px;
+}
