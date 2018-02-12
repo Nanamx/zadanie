@@ -51,7 +51,7 @@
         </div>
       <?php endforeach; ?>
     </div>
-    <a href="news.php?category=Wszystkie" class="btn btn-outline-secondary mt-5 mb-5 custom-link" role="button" aria-pressed="true"> zobacz wszystkie aktualności ></a>
+    <a href="news.php?category=Wszystkie" class="btn btn-outline-secondary mt-5 mb-5cd ~ custom-link" role="button" aria-pressed="true"> zobacz wszystkie aktualności ></a>
   </div>
   <script src="static/js/jquery-3.3.1.min.js"></script>
   <script src="static/js/popper.min.js"></script>
